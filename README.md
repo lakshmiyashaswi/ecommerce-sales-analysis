@@ -18,7 +18,7 @@ This project analyzes ecommerce sales data to uncover insights on sales, profit,
 - Seasonal trends observed in monthly sales
 
 ## 📷 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/screenshot.png)
 
 ## 🚀 Conclusion
 This project helps understand business performance and improve decision-making.
